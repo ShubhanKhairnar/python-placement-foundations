@@ -1,0 +1,23 @@
+
+[
+    {
+        "name": "Aarav",
+        "role": "admin",
+        "active": true
+    },
+    {
+        "name": "Riya",
+        "role": "user",
+        "active": true
+    },
+    {
+        "name": "Kabir",
+        "active": true
+    },
+    "invalid user record",
+    {
+        "name": "Meera",
+        "role": "admin",
+        "active": false
+    }
+]
