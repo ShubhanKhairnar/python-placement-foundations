@@ -1,0 +1,7 @@
+transaction_id,amount,status
+T001,150.00,success
+T002,45.50,failed
+T003,200.25,success
+T004,bad_data,success
+T005,,success
+T006,99.99,success
